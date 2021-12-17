@@ -1,0 +1,226 @@
+/*@author:Bincy Eapen 17/12/2021*/
+*
+{
+	padding:0;
+	margin:0;
+	}
+
+body
+{
+		overflow:scroll;
+	}
+
+.main
+{
+	text-align: center;
+	background-color:#333;
+	color:#fff;
+	height:440px;
+
+
+}
+.main p
+{
+	text-align:center;
+	font-size: 20px;
+	margin:20px;
+	padding-bottom: 50px;
+	/*padding-bottom:50px;*/
+}
+.main h1
+{
+	padding-top: 100px;
+	font-size: 45px;
+	margin:top:60px;
+	
+}
+.body
+{
+	background:#fff;
+	color:#fff;
+}
+/*a
+{
+	text-decoration: none;
+	border-radius: 10px;
+	
+	height:50px;
+	
+}*/
+/*.main p
+{
+	padding-top:20px;
+}*/
+/*.main h1
+{
+	padding-top:50px;
+}*/
+/*.main a
+{
+	padding-bottom: 60px;
+
+	border:solid ;
+}
+*/
+.h1
+{
+	color:#000;
+	text-align:center;
+}
+
+
+.body p
+{
+	color:#000;
+	font-size: 20px;
+	padding-bottom: 100px;
+	margin:20px;
+}
+.body h1
+{
+	text-align:center;
+	color:#000;
+	
+	padding-top:100px;
+}
+ a:hover
+{
+	background-color:#00f;
+	color:#fff;
+}
+a{
+	color:#00f;
+	height:20px;
+	padding:20px;
+	
+	border:solid;
+	border-color:blue;
+	padding-bottom:30px;
+	text-decoration: none;
+	border-radius: 10px;
+}
+	
+	/*height:50px;
+*/
+
+
+/*.image1 p
+{
+	color:#fff;
+}*/
+/*.body1 h1
+{
+	display:flex;
+}*/
+
+.row 
+{
+	background-color:#333;
+	height:350px;
+	display:flex;
+	padding:30px;
+
+}
+.col1
+{
+	width:30%;
+	margin:15px;
+	padding:20px;
+	background-color: white;
+}
+.col1 h1
+{
+	text-align: center;
+}
+.body1 h1
+{
+	text-align: center;
+}
+.body1 p
+{
+	text-align: center;
+}
+.body1 p
+{
+	color:#000;
+	font-size: 20px;
+	padding-bottom: 100px;
+	margin:20px;
+}
+.body1 h1
+{
+	text-align:center;
+	color:#000;
+	
+	padding-top:100px;
+}
+.footer 
+{
+	
+	height: 350px;
+	display:flex;
+
+}
+.foot1
+{
+	width:50%;
+	
+	
+	padding:20px;
+	background-color:#0d6dfd;
+	background-size: 20px;
+
+}
+.foot2
+{
+	width:50%;
+	
+	background-size: 20px;
+	padding:20px;
+	background-color:#333;
+	
+}
+.foot2 p
+{
+font-size:20px; 
+color:white;
+
+}
+.foot2 h1
+{
+text-align:center;
+color:white;
+
+}
+.foot1 h1
+{
+text-align:center;
+}
+
+.foot1 p
+{
+font-size: 20px;
+
+padding-left: 50px;
+	padding-right: 50px;
+}
+.foot2 h1
+{
+	padding-top: 40px;
+	font-size:45px;
+}
+.foot1 h1
+{
+	padding-top: 40px;
+	font-size:45px;
+	color:#333;
+}
+.foot2 p
+{
+	padding-top: 40px;
+
+}
+.foot1 p {
+	padding-top: 40px;
+}
+
